@@ -2,9 +2,9 @@
 
 [![Build Status](https://travis-ci.com/kathirr007/vuetify-md-pro.svg?branch=master)](https://travis-ci.com/kathirr007/vuetify-md-pro)
 
-**[Vuetify MD Pro](git@github.com:kathirr007/HTML-CSS-Presentation-using-ImpressJS)** is Clone of the Vuetify Material Dasboard Template from Creative Tim.
+**[Vuetify MD Pro](git@github.com:kathirr007/vuetify-md-pro)** is Clone of the Vuetify Material Dasboard Template from Creative Tim.
 
-To check live version please checkout **[here](https://kathirr007.github.io/Vue-Images/vuetify-md-pro)**
+To check live version please checkout **[here](https://kathirr007.github.io/vuetify-md-pro)**
 
 ## Project setup
 ```
