@@ -29,7 +29,7 @@ deploy:
 #   github-token: fd8d095ed53a0c01428a583edf6fa199c0c5fae3  # Set in the settings page of your repository, as a secure variable
   github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
-  local_dir: builds/development # Change this to your build directory
+  local_dir: dist # Change this to your build directory
   on:
     branch: master
 after_deploy:
