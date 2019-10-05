@@ -5,7 +5,7 @@
 **[Vuetify MD Pro](git@github.com:kathirr007/Vuetify-md-pro-clone)** is Clone of the Vuetify Material Dasboard Template from Creative Tim.
 
 <!-- To check live version please checkout **[here](https://kathirr007.github.io/Vuetify-md-pro-clone)** -->
-To check live version please checkout **<a href="https://kathirr007.github.io/Vuetify-md-pro-clone" target="_blank" title="Vuetify-md-pro-clone">Here</a>**
+To check live version please checkout **<a href="https://kathirr007.github.io/Vuetify-md-pro-clone" target="_blank" rel="noopener" title="Vuetify-md-pro-clone">Here</a>**
 
 ## Project setup
 ```
