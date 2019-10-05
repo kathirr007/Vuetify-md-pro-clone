@@ -1,10 +1,10 @@
 # Vuetify-material-dashboard-pro-clone
 
-[![Build Status](https://travis-ci.com/kathirr007/Vuetify-material-dashboard-pro-clone.svg?branch=master)](https://travis-ci.com/kathirr007/Vuetify-material-dashboard-pro-clone)
+[![Build Status](https://travis-ci.com/kathirr007/Vuetify-md-pro-clone.svg?branch=master)](https://travis-ci.com/kathirr007/Vuetify-md-pro-clone)
 
-**[Vuetify MD Pro](git@github.com:kathirr007/Vuetify-material-dashboard-pro-clone)** is Clone of the Vuetify Material Dasboard Template from Creative Tim.
+**[Vuetify MD Pro](git@github.com:kathirr007/Vuetify-md-pro-clone)** is Clone of the Vuetify Material Dasboard Template from Creative Tim.
 
-To check live version please checkout **[here](https://kathirr007.github.io/Vuetify-material-dashboard-pro-clone)**
+To check live version please checkout **[here](https://kathirr007.github.io/Vuetify-md-pro-clone)**
 
 ## Project setup
 ```
