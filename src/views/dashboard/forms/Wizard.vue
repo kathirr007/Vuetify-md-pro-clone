@@ -296,15 +296,15 @@
     }),
 
     computed: {
-      stringAccount() {
+      stringAccount () {
         return this.account.join(',')
       },
-      scope() {
+      scope () {
         if (this.tab === 0) return 'about'
-        if (this.tab === 2) return 'address'
+        else if (this.tab === 2) return 'address'
         return 'account'
       },
-      availableSteps() {
+      availableSteps () {
         const steps = [0]
 
         if (
@@ -328,7 +328,7 @@
     },
 
     methods: {
-      next() {
+      next () {
         this.validateForm(this.scope).then(item => {
           if (!item) return
 
@@ -339,14 +339,14 @@
           }
         })
       },
-      onChange(val) {
+      onChange (val) {
         const value = val.target.files[0]
 
         if (!value) return (this.image = null)
 
         this.image = URL.createObjectURL(value)
       },
-      validateForm(scope) {
+      validateForm (scope) {
         return this.$validator.validateAll(scope)
       }
     }

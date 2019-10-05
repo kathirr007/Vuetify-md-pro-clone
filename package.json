@@ -12,7 +12,7 @@
     "chartist": "^0.11.4",
     "core-js": "^2.6.5",
     "lodash": "^4.17.15",
-    "vee-validate": "^3.0.8",
+    "vee-validate": "^2.2.15",
     "vue": "^2.6.10",
     "vue-chartist": "^2.2.1",
     "vue-i18n": "^8.14.1",
@@ -71,7 +71,12 @@
       "no-underscore-dangle": 0,
       "space-before-function-paren": 0,
       "object-shorthand": 0,
-      "func-names": 0
+      "func-names": 0,
+      "no-return-assign": 0,
+      "no-alert": 0,
+      "consistent-return": 0,
+      "no-plusplus": 0,
+      "no-else-return": 0
     },
     "parserOptions": {
       "parser": "babel-eslint"
