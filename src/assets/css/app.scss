@@ -1509,6 +1509,11 @@ html, body {
   
     .v-tabs-slider {
       border-radius: 4px;
+      margin: 0 !important;
+      &-wrapper {
+        z-index: auto;
+        top: 2px;
+      }
     }
   
     .v-slide-group__wrapper {
